@@ -2,9 +2,17 @@
 
 These are my personal modifications to Matt Pocock's skills, shaped around my own needs and workflows. They're highly experimental, and I haven't independently tested them. They work for me, so I'm sharing them for others to explore, compare, and use whatever they find useful. Full credit for the original skills goes to Matt.
 
----
+I use only some of the skills in this repository. The rest are included because this fork follows Matt's full project.
 
-**Matt's original documentation continues below.**
+My changes are recorded in [John's changelog](JOHN-CHANGELOG.md). The inherited [changelog](CHANGELOG.md) records Matt's original project history.
+
+## Skills changed in this fork
+
+These skills differ from Matt's originals:
+
+- [`improve-codebase-architecture`](skills/engineering/improve-codebase-architecture/SKILL.md): saves HTML reports in the project's `reports/` directory. Original: [Matt's skill in `mattpocock/skills` v1.3.1](https://github.com/mattpocock/skills/blob/49dd158d1076134a641b33efb035946536778336/skills/engineering/improve-codebase-architecture/SKILL.md).
+
+## Matt's original documentation below...
 
 <p>
   <a href="https://www.aihero.dev/s/skills-newsletter">

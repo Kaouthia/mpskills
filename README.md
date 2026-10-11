@@ -1,3 +1,11 @@
+## About this fork
+
+These are my personal modifications to Matt Pocock's skills, shaped around my own needs and workflows. They're highly experimental, and I haven't independently tested them. They work for me, so I'm sharing them for others to explore, compare, and use whatever they find useful. Full credit for the original skills goes to Matt.
+
+---
+
+**Matt's original documentation continues below.**
+
 <p>
   <a href="https://www.aihero.dev/s/skills-newsletter">
     <picture>
